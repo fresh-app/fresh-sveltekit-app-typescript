@@ -142,13 +142,13 @@
     picomatch "^2.2.2"
 
 "@sveltejs/adapter-auto@next":
-  version "1.0.0-next.81"
-  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-auto/-/adapter-auto-1.0.0-next.81.tgz#effbea87d2ca6f013a79af3256d19e805a2049f8"
-  integrity sha512-q+0Rh2upU7i3m0fVi/CHrkt+BbTR7bkQ2OoVTVMKwSqrBenr6utPB/7y8tyRrZ21gzUihMSbeFpzbpmzVOI+2g==
+  version "1.0.0-next.82"
+  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-auto/-/adapter-auto-1.0.0-next.82.tgz#ba6752ee2c980de833ac1431945ca9e52088eb99"
+  integrity sha512-TWckpkD7fLwwNcHHN7gDuV+xpu07NJ6aaMa6p9FgeFF16yBeEyGVtsM2bpujjS+u0w6IP4VGsRWEMOOF2b/WYA==
   dependencies:
     "@sveltejs/adapter-cloudflare" "1.0.0-next.38"
-    "@sveltejs/adapter-netlify" "1.0.0-next.79"
-    "@sveltejs/adapter-vercel" "1.0.0-next.77"
+    "@sveltejs/adapter-netlify" "1.0.0-next.80"
+    "@sveltejs/adapter-vercel" "1.0.0-next.78"
 
 "@sveltejs/adapter-cloudflare@1.0.0-next.38":
   version "1.0.0-next.38"
@@ -159,27 +159,27 @@
     esbuild "^0.15.7"
     worktop "0.8.0-next.14"
 
-"@sveltejs/adapter-netlify@1.0.0-next.79":
-  version "1.0.0-next.79"
-  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-netlify/-/adapter-netlify-1.0.0-next.79.tgz#14b66b1502f534b586f05039a52655768cd2b208"
-  integrity sha512-XaihONVwUeXVVt9f2xcFgRExfG8jWKPkyqi715kzPbrgpqH3zaRgLJM2ABEGQ3g2MEn+6op+Z2olIWhM+RA0Cg==
+"@sveltejs/adapter-netlify@1.0.0-next.80":
+  version "1.0.0-next.80"
+  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-netlify/-/adapter-netlify-1.0.0-next.80.tgz#6515ee0d0391d03ac3c8f34befe193802b12118a"
+  integrity sha512-L7Y3hXenJwmPbuzG+o8eUPm/6F3KpHHPUKRgoryYKgVjYGEHt1y1Go1k0JF6Tww8WF59y/j+ljWcBo9RU7MpeQ==
   dependencies:
     "@iarna/toml" "^2.2.5"
     esbuild "^0.15.7"
     set-cookie-parser "^2.4.8"
 
-"@sveltejs/adapter-vercel@1.0.0-next.77":
-  version "1.0.0-next.77"
-  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-vercel/-/adapter-vercel-1.0.0-next.77.tgz#be9bfa2b46fd63723893d37ecdacbb1d735515c3"
-  integrity sha512-r4MqtP+lzx83HfcvI8PU0Yxzmxt6WQq9nzZETLboJouJzhSBUFIN5RmNZfEn6nNIlUwZbGQUEK/FxsRnnxI/Ig==
+"@sveltejs/adapter-vercel@1.0.0-next.78":
+  version "1.0.0-next.78"
+  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-vercel/-/adapter-vercel-1.0.0-next.78.tgz#f5e3560e21c497355ab4f743279dc90da1e2687d"
+  integrity sha512-K7zOlVwX/MV/b6iUbrY7QVn+v8ABBSEi6rjIfYiXCZc+j0nS5WNrcH1/Qdk/pzxK+7O5OuaNZAw3QylJDV5CZw==
   dependencies:
     "@vercel/nft" "^0.22.0"
     esbuild "^0.15.7"
 
 "@sveltejs/kit@next":
-  version "1.0.0-next.512"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.0.0-next.512.tgz#4bec910c67f10c019ef98210d1ecb05dafbeaf2a"
-  integrity sha512-/KywzSMXdNxYGujJfdlAbLgV9m0TSSKqC8XluZ46M6oPAM1fUsjfBBtukU/Vx3hP7ldR8d/vpKX3amENAMw50g==
+  version "1.0.0-next.514"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.0.0-next.514.tgz#301df9feff7da3b248057d134bc86a5530128e4f"
+  integrity sha512-1vBKNeLkaQGz/QEQ9bxWwqHwJbBQJTVKReFoFQugGBhiT/Q39Uv+FpXWh+XND9OxMJ947ndqp/EiQj0IAmPwhg==
   dependencies:
     "@sveltejs/vite-plugin-svelte" "^1.0.5"
     "@types/cookie" "^0.5.1"
@@ -1236,9 +1236,9 @@ minimatch@^3.0.4, minimatch@^3.1.1, minimatch@^3.1.2:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.0, minimist@^1.2.6:
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
-  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.7.tgz#daa1c4d91f507390437c6a8bc01078e7000c4d18"
+  integrity sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==
 
 minipass@^3.0.0:
   version "3.3.4"
