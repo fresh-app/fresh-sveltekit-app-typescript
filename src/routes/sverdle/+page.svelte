@@ -1,8 +1,7 @@
 <script lang="ts">
 	import { confetti } from '@neoconfetti/svelte';
-	import { applyAction, enhance } from '$app/forms';
+	import { enhance } from '$app/forms';
 	import type { PageData, ActionData } from './$types';
-	import { invalidateAll } from '$app/navigation';
 
 	export let data: PageData;
 
@@ -79,11 +78,8 @@
 	action="?/enter"
 	use:enhance={() => {
 		// prevent default callback from resetting the form
-		return async ({ result }) => {
-			if (result.type === 'success') {
-				await invalidateAll();
-			}
-			await applyAction(result);
+		return ({ update }) => {
+			update({ reset: false });
 		};
 	}}
 >
