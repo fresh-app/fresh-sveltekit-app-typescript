@@ -73,6 +73,11 @@
 
 <svelte:window on:keydown={keydown} />
 
+<svelte:head>
+	<title>Sverdle</title>
+	<meta name="description" content="A Wordle clone written in SvelteKit" />
+</svelte:head>
+
 <form
 	method="POST"
 	action="?/enter"
@@ -205,7 +210,7 @@
 		height: 100%;
 		display: flex;
 		flex-direction: column;
-		justify-content: start;
+		justify-content: flex-start;
 	}
 
 	.grid .row {
