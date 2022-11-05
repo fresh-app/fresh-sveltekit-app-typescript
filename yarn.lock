@@ -134,12 +134,12 @@
   integrity sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==
 
 "@sveltejs/adapter-auto@next":
-  version "1.0.0-next.86"
-  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-auto/-/adapter-auto-1.0.0-next.86.tgz#06f4a93c556c75121ea9bcb34600bba34725b6d7"
-  integrity sha512-IKW1SUiXPPZ+qumQu5v48VH4aGmYiSLS83qbDlwfNmoRQejgU54f1M5s+isVmnr9kIOwbMQ0CfYhmZWJ7sEv6Q==
+  version "1.0.0-next.87"
+  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-auto/-/adapter-auto-1.0.0-next.87.tgz#40834b41535089a37456e029d971bf00816c60a0"
+  integrity sha512-0MPCKo3aY1i3oESI6ZZikOB+MDV89WlWj4ot+/WEsP1J2uDA2HSirCZYWDnLB5i00HDHzqwBOfDDwHJ00pPC4w==
   dependencies:
     "@sveltejs/adapter-cloudflare" "1.0.0-next.40"
-    "@sveltejs/adapter-netlify" "1.0.0-next.83"
+    "@sveltejs/adapter-netlify" "1.0.0-next.84"
     "@sveltejs/adapter-vercel" "1.0.0-next.81"
 
 "@sveltejs/adapter-cloudflare@1.0.0-next.40":
@@ -151,10 +151,10 @@
     esbuild "^0.15.12"
     worktop "0.8.0-next.14"
 
-"@sveltejs/adapter-netlify@1.0.0-next.83":
-  version "1.0.0-next.83"
-  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-netlify/-/adapter-netlify-1.0.0-next.83.tgz#2d44100683b1c5304f348cc703115afc8adaf798"
-  integrity sha512-4hPKs7T1v81KatpMm8AgPEe4LSvoRNWiooxbSlLL8su/nnVe2FHPlpGgRcdSsE9VUmlkyd+4YIbVFG0ZcYO4LQ==
+"@sveltejs/adapter-netlify@1.0.0-next.84":
+  version "1.0.0-next.84"
+  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-netlify/-/adapter-netlify-1.0.0-next.84.tgz#6581e3ca5528da1616518717295e6bff632e48c7"
+  integrity sha512-i4vf3to0sV/iI39UPPhlVjOP+jZCZ048M4oHkqDM1FfJwACwgXaysdF2t4X0DV3loLmrkfarwbatjbGIECA9uQ==
   dependencies:
     "@iarna/toml" "^2.2.5"
     esbuild "^0.15.12"
@@ -169,14 +169,14 @@
     esbuild "^0.15.12"
 
 "@sveltejs/kit@next":
-  version "1.0.0-next.532"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.0.0-next.532.tgz#3283c97d8cc6ffe4552a930aa966b37f61189e56"
-  integrity sha512-g+t+dncoz/DBc1mfwSfBaIBqE5pl0caMUy7yZzjsnyw0WG3AevC04d2KfTOgtOMgXVDnSVqZxlTR+MM5tnKeyw==
+  version "1.0.0-next.535"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.0.0-next.535.tgz#e95fa5a5e09f82c170360fe11493f69b44103373"
+  integrity sha512-sbVFeidRGYKqahVWATuvl9PVnIDA/DvXUuq3LAV7eLXf9LWsdMt+9OhXmz8Ltxv8ov3+Ph6gcVSBvisF4BEvBQ==
   dependencies:
     "@sveltejs/vite-plugin-svelte" "^1.1.0"
     "@types/cookie" "^0.5.1"
     cookie "^0.5.0"
-    devalue "^4.1.0"
+    devalue "^4.2.0"
     kleur "^4.1.5"
     magic-string "^0.26.7"
     mime "^3.0.0"
@@ -559,7 +559,7 @@ detect-libc@^2.0.0:
   resolved "https://registry.yarnpkg.com/detect-libc/-/detect-libc-2.0.1.tgz#e1897aa88fa6ad197862937fbc0441ef352ee0cd"
   integrity sha512-463v3ZeIrcWtdgIg6vI6XUncguvr2TnGl4SzDXinkt9mSLpBJKXT3mW6xT3VQdDN11+WVs29pgvivTc4Lp8v+w==
 
-devalue@^4.1.0:
+devalue@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/devalue/-/devalue-4.2.0.tgz#3f542d7c828e317bab5fd3bcecde210af8f83d4b"
   integrity sha512-mbjoAaCL2qogBKgeFxFPOXAUsZchircF+B/79LD4sHH0+NHfYm8gZpQrskKDn5gENGt35+5OI1GUF7hLVnkPDw==
