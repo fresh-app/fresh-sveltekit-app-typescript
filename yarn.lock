@@ -169,9 +169,9 @@
     esbuild "^0.15.12"
 
 "@sveltejs/kit@next":
-  version "1.0.0-next.542"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.0.0-next.542.tgz#df9748ac8ced503ce8dc1c649db70247d07159b9"
-  integrity sha512-0YaNfrNsCwgCYuYEEKUF7G/QAkeGNJRlAFnPa9WTG2kRQPqlfUKOJlAniRHVG08ARdfNJgBSootWFvAUsKSoYA==
+  version "1.0.0-next.544"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.0.0-next.544.tgz#3ceec5f05515ab0afffc98b24c60dc05c6a5f6e6"
+  integrity sha512-zgQHiSvxiTDjJJROj9mPwIEoT6sAopagDroh89cHKarKc2eK/1nISA2dascKz/atGF8mghOn7RXZPnPofr01fQ==
   dependencies:
     "@sveltejs/vite-plugin-svelte" "^1.1.0"
     "@types/cookie" "^0.5.1"
@@ -187,9 +187,9 @@
     undici "5.12.0"
 
 "@sveltejs/vite-plugin-svelte@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-1.1.0.tgz#691ec35c7a96f5dd724f52e2eafff50a0debae05"
-  integrity sha512-cFRfEdztubtj1c/rYh7ArK7XCfFJn6wG6+J8/e9amFsKtEJILovoBrK0/mxt1AjPQg0vaX+fHPKvhx+q8mTPaQ==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-1.1.1.tgz#15acaa21b579c6c00f3be3c5bd2e69e91dfb2632"
+  integrity sha512-NzIaGIzWh5hCSMUoxukYEGmxFCWgzaVglqHJLV5r0BA7hHZbHXu8DYR80i6QUX4xyoQ4PZ8ir7SUYsThbreMcg==
   dependencies:
     debug "^4.3.4"
     deepmerge "^4.2.2"
