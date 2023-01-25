@@ -216,9 +216,9 @@
     import-meta-resolve "^2.2.0"
 
 "@sveltejs/kit@^1.0.0":
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.2.6.tgz#e3adf5274779fcb6083f11478b60cf960162b8b3"
-  integrity sha512-dESK7mYjIm9yQWA7esAbHg7MoWOpB8Ztgzmc7LAvrGlsg2bs1+NPhSPaMKs7CQFznkunzrlE4Q4irMPiXJQmIw==
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/@sveltejs/kit/-/kit-1.2.9.tgz#b95466917ab699da7d6f8cd65d1e4f8cd315190d"
+  integrity sha512-zHuYwMgCJpmgYoQ1EOIgNFNkBTKqErHH+fqZVfNmEw2hICoKZHIjqm8/fetRUtF71dqXq0TmPS/HuCCBHXQiZw==
   dependencies:
     "@sveltejs/vite-plugin-svelte" "^2.0.0"
     "@types/cookie" "^0.5.1"
@@ -1453,9 +1453,9 @@ supports-preserve-symlinks-flag@^1.0.0:
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
 svelte-check@^3.0.1:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-3.0.2.tgz#a5f4582c3bfd28a5ee991803810e5ae4ae891af5"
-  integrity sha512-DkhKhV0Jt0gh7q9DBB26+J2Vfb9y4/4JWxnbkXBZha7542LOhwvj3edJFjyJ+xjdaXyInZ+YRRYc3V6wytP2ew==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-3.0.3.tgz#7e89fe4d2adc43869983707822f7c4d7ede74505"
+  integrity sha512-ByBFXo3bfHRGIsYEasHkdMhLkNleVfszX/Ns1oip58tPJlKdo5Ssr8kgVIuo5oq00hss8AIcdesuy0Xt0BcTvg==
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.17"
     chokidar "^3.4.1"
