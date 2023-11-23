@@ -302,9 +302,9 @@
     debug "^4.3.4"
 
 "@sveltejs/vite-plugin-svelte@^2.5.0":
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-2.5.2.tgz#de9e9cab3d9614407788702514bc57258a3cac77"
-  integrity sha512-Dfy0Rbl+IctOVfJvWGxrX/3m6vxPLH8o0x+8FA5QEyMUQMo4kGOVIojjryU7YomBAexOTAuYf1RT7809yDziaA==
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-2.5.3.tgz#23f810d0c38d159491845175c2566a51639be3fc"
+  integrity sha512-erhNtXxE5/6xGZz/M9eXsmI7Pxa6MS7jyTy06zN3Ck++ldrppOnOlJwHHTsMC7DHDQdgUp4NAc4cDNQ9eGdB/w==
   dependencies:
     "@sveltejs/vite-plugin-svelte-inspector" "^1.0.4"
     debug "^4.3.4"
@@ -896,10 +896,10 @@ esquery@^1.4.2:
   dependencies:
     estraverse "^5.1.0"
 
-esrap@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/esrap/-/esrap-1.1.1.tgz#0ecadf5f8bbb746de74f5ad9e47ffa8f4cb593e3"
-  integrity sha512-PIgHGLP8VAG4Iao4CbOc+/5tgn+TpzGhyAuVCR5qgcFgPOUk9Ds61bH7hD2lbjDuu86lagofx3lVrRFWcIF+Gg==
+esrap@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/esrap/-/esrap-1.2.0.tgz#8b5e41a5c11a38f5290cda2a89b0f8f04f19a1a7"
+  integrity sha512-ZWd00MnkN45Hcj+nIV5FPiZk6Nx7RDUL8G0KGp1cg1xSKXOEac0IhMQdsrGswXB1O0fMzH+MXq288Lt0Abpg/Q==
   dependencies:
     "@jridgewell/sourcemap-codec" "^1.4.15"
     "@types/estree" "^1.0.1"
@@ -1492,9 +1492,9 @@ prelude-ls@^1.2.1:
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
 prettier-plugin-svelte@^3.0.0:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-3.1.1.tgz#29ac59b25e6303c2fef0ca381f0bc239643955bd"
-  integrity sha512-jLzaHfToav527/I5h2BMQfN3G5gylrJm54zFFyoXvUtfscI47877ftacUb+Eyse/3bXrhY+MtkyiuvruiHc+kg==
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-3.1.2.tgz#2e050eb56dbb467a42c45ad6ce18bb277d28ffa0"
+  integrity sha512-7xfMZtwgAWHMT0iZc8jN4o65zgbAQ3+O32V6W7pXrqNvKnHnkoyQCGCbKeUyXKZLbYE0YhFRnamfxfkEGxm8qA==
 
 prettier@^3.0.0:
   version "3.1.0"
@@ -1689,9 +1689,9 @@ supports-color@^7.1.0:
     has-flag "^4.0.0"
 
 svelte-check@^3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-3.6.0.tgz#d501813dc83648c1b89cf9953de385762843731e"
-  integrity sha512-8VfqhfuRJ1sKW+o8isH2kPi0RhjXH1nNsIbCFGyoUHG+ZxVxHYRKcb+S8eaL/1tyj3VGvWYx3Y5+oCUsJgnzcw==
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-3.6.1.tgz#d0d3f06db3c736ae662fcbf507cbb82447d0d14a"
+  integrity sha512-v+mmXKp+hZ+mZ/n9MQpAe+0q/GhRKXmhQOkWYAdRozXRkPiuLOdhsjp9KtNBpP0TRqvvrB0cwWL5HUjCLpI46g==
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.17"
     chokidar "^3.4.1"
@@ -1730,9 +1730,9 @@ svelte-preprocess@^5.1.0:
     strip-indent "^3.0.0"
 
 svelte@^5.0.0-next.1:
-  version "5.0.0-next.9"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.0.0-next.9.tgz#5c064b2ad92dff941f5266195123c148022bd802"
-  integrity sha512-IX41fQvu56U1XHR1oMaq8S5B23HWK2j4jvcZv4+85xO9xpRoT9i7cX7K272USUgsjzYqCp3I/w5dg6Xrx51aWQ==
+  version "5.0.0-next.10"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.0.0-next.10.tgz#d6cf63a668d220ba49285b995f65c97add888088"
+  integrity sha512-8n/4+pRdpa6oKI4LszXgl6/wLtv7Ht4lMieX3NOL2lh+m3farOecUp9rgd/b/IxvNMBG5UgkrJMeJ6qNCvZ4RA==
   dependencies:
     "@ampproject/remapping" "^2.2.1"
     "@jridgewell/sourcemap-codec" "^1.4.15"
@@ -1741,7 +1741,7 @@ svelte@^5.0.0-next.1:
     aria-query "^5.3.0"
     axobject-query "^4.0.0"
     esm-env "^1.0.0"
-    esrap "^1.1.1"
+    esrap "^1.2.0"
     is-reference "^3.0.1"
     locate-character "^3.0.0"
     magic-string "^0.30.4"
