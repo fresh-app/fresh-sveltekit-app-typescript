@@ -342,9 +342,9 @@
   integrity sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==
 
 "@types/node@*":
-  version "20.9.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.9.4.tgz#cc8f970e869c26834bdb7ed480b30ede622d74c7"
-  integrity sha512-wmyg8HUhcn6ACjsn8oKYjkN/zUzQeNtMy44weTJSM6p4MMzEOuKbA3OjJ267uPCOW7Xex9dyrNTful8XTQYoDA==
+  version "20.9.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.9.5.tgz#bb441014bcb91c63742b0e1fe25b902f5d581faa"
+  integrity sha512-Uq2xbNq0chGg+/WQEU0LJTSs/1nKxz6u1iemLcGomkSnKokbW1fbLqc3HOqCf2JP7KjlL4QkS7oZZTrOQHQYgQ==
   dependencies:
     undici-types "~5.26.4"
 
@@ -1730,9 +1730,9 @@ svelte-preprocess@^5.1.0:
     strip-indent "^3.0.0"
 
 svelte@^5.0.0-next.1:
-  version "5.0.0-next.10"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.0.0-next.10.tgz#d6cf63a668d220ba49285b995f65c97add888088"
-  integrity sha512-8n/4+pRdpa6oKI4LszXgl6/wLtv7Ht4lMieX3NOL2lh+m3farOecUp9rgd/b/IxvNMBG5UgkrJMeJ6qNCvZ4RA==
+  version "5.0.0-next.11"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.0.0-next.11.tgz#94a15701411c6b2b96ded23fbae7344f2346c34a"
+  integrity sha512-wmV+lC9paJgX1QQFbhRi+V1a59PnIAqi9Fo4tmkyUZio7bJ1Qtk3/OW/MjQs1OwgW7WPaBfT3/EG38m2g7YAaA==
   dependencies:
     "@ampproject/remapping" "^2.2.1"
     "@jridgewell/sourcemap-codec" "^1.4.15"
