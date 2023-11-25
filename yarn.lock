@@ -342,9 +342,9 @@
   integrity sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==
 
 "@types/node@*":
-  version "20.9.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.9.5.tgz#bb441014bcb91c63742b0e1fe25b902f5d581faa"
-  integrity sha512-Uq2xbNq0chGg+/WQEU0LJTSs/1nKxz6u1iemLcGomkSnKokbW1fbLqc3HOqCf2JP7KjlL4QkS7oZZTrOQHQYgQ==
+  version "20.10.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.0.tgz#16ddf9c0a72b832ec4fcce35b8249cf149214617"
+  integrity sha512-D0WfRmU9TQ8I9PFx9Yc+EBHw+vSpIub4IDvQivcp26PtPrdMGAq5SDcpXEo/epqa/DXotVpekHiLNTg3iaKXBQ==
   dependencies:
     undici-types "~5.26.4"
 
@@ -1689,9 +1689,9 @@ supports-color@^7.1.0:
     has-flag "^4.0.0"
 
 svelte-check@^3.6.0:
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-3.6.1.tgz#d0d3f06db3c736ae662fcbf507cbb82447d0d14a"
-  integrity sha512-v+mmXKp+hZ+mZ/n9MQpAe+0q/GhRKXmhQOkWYAdRozXRkPiuLOdhsjp9KtNBpP0TRqvvrB0cwWL5HUjCLpI46g==
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-3.6.2.tgz#a6922160e17e93c6f5fa2b18ec342cc4c70d60ab"
+  integrity sha512-E6iFh4aUCGJLRz6QZXH3gcN/VFfkzwtruWSRmlKrLWQTiO6VzLsivR6q02WYLGNAGecV3EocqZuCDrC2uttZ0g==
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.17"
     chokidar "^3.4.1"
@@ -1730,9 +1730,9 @@ svelte-preprocess@^5.1.0:
     strip-indent "^3.0.0"
 
 svelte@^5.0.0-next.1:
-  version "5.0.0-next.11"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.0.0-next.11.tgz#94a15701411c6b2b96ded23fbae7344f2346c34a"
-  integrity sha512-wmV+lC9paJgX1QQFbhRi+V1a59PnIAqi9Fo4tmkyUZio7bJ1Qtk3/OW/MjQs1OwgW7WPaBfT3/EG38m2g7YAaA==
+  version "5.0.0-next.12"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.0.0-next.12.tgz#a71d2bd34a01e1e65ba6d9edcfd524e0eec132bb"
+  integrity sha512-vdO72COF59XERYoVRSxyMloa0JYUts3Bkx5QAk3CmgtAKsp4o5pXx8NF6IkPjIIWoNRi5TqBs659KG6IRSIgTw==
   dependencies:
     "@ampproject/remapping" "^2.2.1"
     "@jridgewell/sourcemap-codec" "^1.4.15"
