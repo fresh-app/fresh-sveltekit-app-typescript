@@ -1730,9 +1730,9 @@ svelte-preprocess@^5.1.0:
     strip-indent "^3.0.0"
 
 svelte@^5.0.0-next.1:
-  version "5.0.0-next.15"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.0.0-next.15.tgz#b7c57ef2e3a99f48bf043af60b1dcf41351459b6"
-  integrity sha512-1fcySOVeFARsShj/dd9rpIeu3qr+SFBB3LYCar0Pfbjta59ScrBp+EUniy6Fcx7QzrZjQorzh8yRfpckspImmQ==
+  version "5.0.0-next.16"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.0.0-next.16.tgz#a32553fbe93e9cd14deb80ca1195d243c967ad68"
+  integrity sha512-FQjDKN1h8I11XiD6QXYkzwZR4nIo13wH00TUdgm2MAzSmhNvZiW8pDM9jj5qGhBbKzL+HI+kPCM5v3cxDLJ/fQ==
   dependencies:
     "@ampproject/remapping" "^2.2.1"
     "@jridgewell/sourcemap-codec" "^1.4.15"
