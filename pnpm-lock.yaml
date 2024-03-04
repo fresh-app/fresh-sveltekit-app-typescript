@@ -40,7 +40,7 @@ devDependencies:
     version: 9.1.0(eslint@8.57.0)
   eslint-plugin-svelte:
     specifier: ^2.36.0-next.4
-    version: 2.36.0-next.8(eslint@8.57.0)(svelte@5.0.0-next.70)
+    version: 2.36.0-next.9(eslint@8.57.0)(svelte@5.0.0-next.70)
   prettier:
     specifier: ^3.1.1
     version: 3.2.5
@@ -557,7 +557,7 @@ packages:
       esm-env: 1.0.0
       import-meta-resolve: 4.0.0
       kleur: 4.1.5
-      magic-string: 0.30.7
+      magic-string: 0.30.8
       mrmime: 2.0.0
       sade: 1.8.1
       set-cookie-parser: 2.6.0
@@ -594,7 +594,7 @@ packages:
       debug: 4.3.4
       deepmerge: 4.3.1
       kleur: 4.1.5
-      magic-string: 0.30.7
+      magic-string: 0.30.8
       svelte: 5.0.0-next.70
       svelte-hmr: 0.15.3(svelte@5.0.0-next.70)
       vite: 5.1.4
@@ -785,7 +785,7 @@ packages:
   /@vitest/snapshot@1.3.1:
     resolution: {integrity: sha512-EF++BZbt6RZmOlE3SuTPu/NfwBF6q4ABS37HHXzs2LUVPBLx2QoY/K0fKpRChSo8eLiuxcbCVfqKgx/dplCDuQ==}
     dependencies:
-      magic-string: 0.30.7
+      magic-string: 0.30.8
       pathe: 1.1.2
       pretty-format: 29.7.0
     dev: true
@@ -1131,8 +1131,8 @@ packages:
       eslint: 8.57.0
     dev: true
 
-  /eslint-plugin-svelte@2.36.0-next.8(eslint@8.57.0)(svelte@5.0.0-next.70):
-    resolution: {integrity: sha512-YbnL5XoGrOAh7dAmSFYn0vt7G4TL0kVOlIoR1RZl20d1DuPPcHQ4Afl8OQSdhRm/HYuYzGsLb7H+i1z1OzPO+A==}
+  /eslint-plugin-svelte@2.36.0-next.9(eslint@8.57.0)(svelte@5.0.0-next.70):
+    resolution: {integrity: sha512-HfzWBTXgIfKHgtL2+4K40KN5h+cYyvpGS3pDpogRxO8muvzLCDtzDfUuoqQrfx+BhufyO8KGC7VR6Bt0H3+KjA==}
     engines: {node: ^14.17.0 || >=16.0.0}
     peerDependencies:
       eslint: ^7.0.0 || ^8.0.0-0 || ^9.0.0-0
@@ -1154,7 +1154,7 @@ packages:
       postcss-selector-parser: 6.0.15
       semver: 7.6.0
       svelte: 5.0.0-next.70
-      svelte-eslint-parser: 0.34.0-next.10(svelte@5.0.0-next.70)
+      svelte-eslint-parser: 0.34.0-next.11(svelte@5.0.0-next.70)
     transitivePeerDependencies:
       - supports-color
       - ts-node
@@ -1616,8 +1616,8 @@ packages:
       yallist: 4.0.0
     dev: true
 
-  /magic-string@0.30.7:
-    resolution: {integrity: sha512-8vBuFF/I/+OSLRmdf2wwFCJCz+nSn0m6DPvGH1fS/KiQoSaR+sETbov0eIk9KhEKy8CYqIkIAnbohxT/4H0kuA==}
+  /magic-string@0.30.8:
+    resolution: {integrity: sha512-ISQTe55T2ao7XtlAStud6qwYPZjE4GK1S/BeVPus4jrq6JuOnQ00YKQC581RWhR122W7msZV263KzVeLoqidyQ==}
     engines: {node: '>=12'}
     dependencies:
       '@jridgewell/sourcemap-codec': 1.4.15
@@ -2143,8 +2143,8 @@ packages:
       - sugarss
     dev: true
 
-  /svelte-eslint-parser@0.34.0-next.10(svelte@5.0.0-next.70):
-    resolution: {integrity: sha512-TFYUS4LblbgW6k3FEVfr7pJHSwg5aASghVui+l1Yoh2RH3u7ZGxnAsfIsMylR/eaCqCwF2fdKWDQhtSQAmOIag==}
+  /svelte-eslint-parser@0.34.0-next.11(svelte@5.0.0-next.70):
+    resolution: {integrity: sha512-9P+qXK132z2ZbNeUvnBeP4vwjSAp44MCXgn9aIO5RBpmrF4BU3tpJyRWbjAW/osHg/NA3qb3tq1VL9vCIc2gxw==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     peerDependencies:
       svelte: ^3.37.0 || ^4.0.0 || ^5.0.0-next.69
@@ -2209,7 +2209,7 @@ packages:
     dependencies:
       '@types/pug': 2.0.10
       detect-indent: 6.1.0
-      magic-string: 0.30.7
+      magic-string: 0.30.8
       postcss: 8.4.35
       sorcery: 0.11.0
       strip-indent: 3.0.0
@@ -2232,7 +2232,7 @@ packages:
       esrap: 1.2.1
       is-reference: 3.0.2
       locate-character: 3.0.0
-      magic-string: 0.30.7
+      magic-string: 0.30.8
       zimmerframe: 1.1.2
     dev: true
 
@@ -2425,7 +2425,7 @@ packages:
       debug: 4.3.4
       execa: 8.0.1
       local-pkg: 0.5.0
-      magic-string: 0.30.7
+      magic-string: 0.30.8
       pathe: 1.1.2
       picocolors: 1.0.0
       std-env: 3.7.0
