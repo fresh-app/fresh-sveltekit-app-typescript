@@ -10,7 +10,7 @@ importers:
     devDependencies:
       '@fontsource/fira-mono':
         specifier: ^5.0.0
-        version: 5.0.14
+        version: 5.0.15
       '@neoconfetti/svelte':
         specifier: ^2.0.0
         version: 2.2.1
@@ -240,8 +240,8 @@ packages:
     resolution: {integrity: sha512-autAXT203ixhqei9xt+qkYOvY8l6LAFIdT2UXc/RPNeUVfqRF1BV94GTJyVPFKT8nFM6MyVJhjLj9E8JWvf5zQ==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
-  '@fontsource/fira-mono@5.0.14':
-    resolution: {integrity: sha512-4IKa+cuHipk/vr2frgZh4pyR2XcoQk/j3zmMlo8uuAGUB3IPLpQlgN6Qm5d3RfRZ7dXGlTn/PWiAJeU8bkmD4w==}
+  '@fontsource/fira-mono@5.0.15':
+    resolution: {integrity: sha512-wc3TpF2GBbtFDKNbb444BrC3mEKuoPLITSYCKweNIrqBvAalIfJGloY/MVrmSGaMNgaAKUpdgy4eAWPLkUVzaA==}
 
   '@humanwhocodes/module-importer@1.0.1':
     resolution: {integrity: sha512-bxveV4V8v5Yb4ncFTT3rPSgZBOpCkjfK0y4oVVVJwIuDVBRMDXrPyXRL988i5ap9m9bnyEEjWfm5WkBmtffLfA==}
@@ -1425,7 +1425,7 @@ snapshots:
     dependencies:
       levn: 0.4.1
 
-  '@fontsource/fira-mono@5.0.14': {}
+  '@fontsource/fira-mono@5.0.15': {}
 
   '@humanwhocodes/module-importer@1.0.1': {}
 
