@@ -17,28 +17,27 @@
 		"test:unit": "vitest"
 	},
 	"devDependencies": {
-		"@eslint/compat": "^2.0.2",
-		"@eslint/js": "^9.39.2",
+		"@eslint/compat": "^2.0.3",
+		"@eslint/js": "^10.0.1",
 		"@playwright/test": "^1.58.2",
 		"@sveltejs/adapter-auto": "^7.0.0",
 		"@sveltejs/kit": "^2.50.2",
 		"@sveltejs/vite-plugin-svelte": "^6.2.4",
 		"@types/node": "^24",
 		"@vitest/browser-playwright": "^4.1.0",
-		"eslint": "^9.39.2",
-		"eslint-config-prettier": "^10.1.8",
-		"eslint-plugin-svelte": "^3.14.0",
-		"globals": "^17.3.0",
+		"eslint": "^10.0.3",
+		"eslint-plugin-svelte": "^3.15.2",
+		"globals": "^17.4.0",
 		"playwright": "^1.58.2",
 		"prettier": "^3.8.1",
 		"prettier-plugin-svelte": "^3.4.1",
-		"svelte": "^5.51.0",
+		"svelte": "^5.54.0",
 		"svelte-check": "^4.4.2",
 		"typescript": "^5.9.3",
-		"typescript-eslint": "^8.54.0",
+		"typescript-eslint": "^8.57.0",
 		"vite": "^7.3.1",
 		"vitest": "^4.1.0",
 		"vitest-browser-svelte": "^2.0.2"
 	},
-	"packageManager": "pnpm@10.32.1+sha512.a706938f0e89ac1456b6563eab4edf1d1faf3368d1191fc5c59790e96dc918e4456ab2e67d613de1043d2e8c81f87303e6b40d4ffeca9df15ef1ad567348f2be"
+	"packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319"
 }
